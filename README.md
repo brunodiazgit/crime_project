@@ -31,5 +31,3 @@ If you don’t have it installed, you can run:
   ```bash
 pip install notebook
 jupyter notebook
-
-This will open Jupyter in your default browser. Navigate to the .ipynb file to start the analysis.
