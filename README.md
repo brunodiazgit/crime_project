@@ -18,12 +18,6 @@ The main questions explored in this analysis are:
 - Pandas
 - Matplotlib
 - Seaborn
-
-## How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/brunodiazgit/crime_project.git
    
 2. Open the notebook in your browser using Jupyter Notebook or JupyterLab.
 If you don’t have it installed, you can run:
